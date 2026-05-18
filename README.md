@@ -1,5 +1,5 @@
 # Oi, sou o Igor!
-### Tenho **1** anos.
+### Tenho **17** anos.
 
 ### Fiz parte do curso _Aprender e Crescer_ (**2025**)
 
