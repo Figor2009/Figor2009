@@ -1,7 +1,7 @@
-# Oi, sou o (F)Igor!
-### Tenho **16** anos.
+# Oi, sou o Igor!
+### Tenho **1** anos.
 
-### Faço parte do curso _Aprender e Crescer_ (**2025**)
+### Fiz parte do curso _Aprender e Crescer_ (**2025**)
 
 ### Ainda aprendendo a usar o **Github...**
 
